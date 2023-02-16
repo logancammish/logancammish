@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬 C++/Nodejs/Lua
+C++/Nodejs/Lua
 
 
 <!--
