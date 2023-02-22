@@ -1,5 +1,4 @@
-### Hi there 👋
-C++/Nodejs/Lua
+### Hi there 
 
 
 <!--
