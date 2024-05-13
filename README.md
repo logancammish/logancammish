@@ -1,4 +1,4 @@
-I  use Rust and Lua.
+I  use Rust and Lua and I'm currently learning ReactJS
 
 Other projects: https://github.com/glorpglob
 
