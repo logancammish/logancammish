@@ -1,3 +1,5 @@
+Primarily a Rust developer, but I am willing to adapt to other languages if necessary.
+
 17 years old
 
 Leetcode: https://leetcode.com/u/lcammish/
