@@ -3,13 +3,14 @@
 <p align="center">
   📍 Auckland, New Zealand <br/>
   🎂 17 years old <br/>
-  🎓 NCEA Level 3 (2025) <br/>
-
 </p>
 
+<hr/>
 
-
-
+<h3 align="center">🎓 Education</h3>
+<p align="center">
+  ➡️  <b>NCEA</b> Level 3 (2025), Level 2, Level 1 
+</p>
 
 <hr/>
 
@@ -30,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
   <br/>
-    💻 Leetcode: <a href="https://leetcode.com/u/lcammish/" target="_blank">lcammish</a>
+  💻 Leetcode: <a href="https://leetcode.com/u/lcammish/" target="_blank">lcammish</a>
 </p>
 
 <hr/>
