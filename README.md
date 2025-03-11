@@ -9,6 +9,7 @@
 ---
 
 <p align="center">
+  ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=logancammish\&include_all_commits=true)
   <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats"/>
   <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages"/>
 </p>
