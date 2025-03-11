@@ -3,7 +3,8 @@
 <p align="center">
   📍 Auckland, New Zealand <br/>
   🎂 17 years old <br/>
-  💻 Leetcode: <a href="https://leetcode.com/u/lcammish/" target="_blank">lcammish</a>
+  🎓 NCEA Level 3 (2025) <br/>
+
 </p>
 
 <hr/>
@@ -11,6 +12,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" style="margin: 10px; border-radius: 8px;"/>
   <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="margin: 10px; border-radius: 8px;"/>
+    💻 Leetcode: <a href="https://leetcode.com/u/lcammish/" target="_blank">lcammish</a>
 </p>
 
 <hr/>
