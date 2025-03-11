@@ -31,7 +31,7 @@
 ### 💬 Contact Me
 
 <p align="center">
-  📧 <a href="mailto:logancammish3@gmail.com">logancammis3h@gmail.com</a> <br/>
+  📧 <a href="mailto:logancammish3@gmail.com">logancammish3@gmail.com</a> <br/>
   🔗 Connect with me on <a href="https://www.linkedin.com/in/logan-cammish-249872332/" target="_blank">LinkedIn</a>
 </p>
 
