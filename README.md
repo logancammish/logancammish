@@ -42,7 +42,3 @@
   📧 <a href="mailto:logancammish3@gmail.com">logancammish3@gmail.com</a> <br/>
   🔗 Connect with me on <a href="https://www.linkedin.com/in/logan-cammish-249872332/" target="_blank">LinkedIn</a>
 </p>
-
-<p align="center">
-  <i>Feel free to check out my work and stats! 😊</i>
-</p>
