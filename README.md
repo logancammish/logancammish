@@ -11,6 +11,7 @@
 <h3 align="center">🎓 Education</h3>
 <p align="center">
   ➡️  <b>NCEA</b> Level 3, Level 2, Level 1 
+  <br>
   ➡️  <b>University</b> Attending Auckland University from 2026-2029 (BSc Computer Science)
 </p>
 
