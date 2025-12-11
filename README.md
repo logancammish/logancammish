@@ -2,14 +2,15 @@
 
 <p align="center">
   📍 Auckland, New Zealand <br/>
-  🎂 17 years old <br/>
+  🎂 18 years old <br/>
 </p>
 
 <hr/>
 
 <h3 align="center">🎓 Education</h3>
 <p align="center">
-  ➡️  <b>NCEA</b> Level 3 (2025), Level 2, Level 1 
+  ➡️  <b>NCEA</b> Level 3, Level 2, Level 1 
+  ➡️  <b>University</b> Attending Auckland University from 2026-2029 (BSc Computer Science)
 </p>
 
 <hr/>
