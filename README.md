@@ -2,6 +2,7 @@
 
 <p align="center">
   📍 Auckland, New Zealand <br/>
+  
   🎂 18 years old <br/>
 </p>
 
