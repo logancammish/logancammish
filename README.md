@@ -9,9 +9,12 @@
 
 <h3 align="center">🎓 Education</h3>
 <p align="center">
-  ➡️  <b>NCEA</b> Level 3, Level 2, Level 1 
+  ➡️  <b>NCEA</b> Level 3, Level 2, Level 1 (2023-2025)
   <br>
-  ➡️  <b>University of Auckland</b> from 2026 (BSc Computer Science)
+  ➡️  <b>NZQA Scholarship</b> in Technology (2025)
+  <br>
+  ➡️  <b>University of Auckland</b> - BSc CompSci (2026-Present)
+  <br>
 </p>
 
 <hr/>
