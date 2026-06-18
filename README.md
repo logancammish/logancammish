@@ -1,48 +1,28 @@
 <h2 align="center">Hi, I'm Logan 👋</h2>
 
 <p align="center">
-  📍 Auckland, New Zealand <br/>
-  🎂 18 years old <br/>
+📍 Auckland • 🎂 18 • <a href="https://aisleof.me">aisleof.me</a>
 </p>
 
-<hr/>
-
-<h3 align="center">🎓 Education</h3>
 <p align="center">
-  ➡️  <b>NCEA</b> Level 3, Level 2, Level 1 (2023-2025)
-  <br>
-  ➡️  <b>NZQA Scholarship</b> in Technology (2025)
-  <br>
-  ➡️  <b>University of Auckland</b> - BSc CompSci (2026-Present)
-  <br>
+<b>UoA BSc CS</b> (2026–) • NZQA Scholarship Tech (2025) • NCEA L1–3
 </p>
 
-<hr/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" style="margin: 10px; border-radius: 8px;"/>
-  <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" style="margin: 10px; border-radius: 8px;"/>
+  <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="120"/>
+  <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/languages.svg#gh-dark-mode-only" height="120"/>
 </p>
 
-<hr/>
-
-### 🚀 Skills & Tools
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 5px; border-radius: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" style="margin: 5px; border-radius: 8px;"/> ... and more!
-  <br/>
-  💻 Leetcode: <a href="https://leetcode.com/u/lcammish/" target="_blank">lcammish</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26"/>
 </p>
 
-<hr/>
-
-### 💬 Contact Me
-
 <p align="center">
-  📧 <a href="mailto:logancammish3@gmail.com">logancammish3@gmail.com</a> <br/>
-  🔗 Connect with me on <a href="https://www.linkedin.com/in/logan-cammish-249872332/" target="_blank">LinkedIn</a>
+💻 <a href="https://leetcode.com/u/lcammish/">LeetCode</a> • 
+📧 <a href="mailto:logancammish3@gmail.com">Email</a> • 
+🔗 <a href="https://www.linkedin.com/in/logan-cammish-249872332/">LinkedIn</a>
 </p>
