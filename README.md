@@ -7,7 +7,6 @@
 <p align="center">
 <b>UoA BSc CS</b> (2026–) • NZQA Scholarship Tech (2025) • NCEA L1–3
   </p>
-<i><p align="center"> I've been writing Rust since before ChatGPT was a thing!
 </p></i>
 <p align="center">
   <img src="https://raw.githubusercontent.com/logancammish/github-stats/master/generated/overview.svg#gh-dark-mode-only" height="120"/>
