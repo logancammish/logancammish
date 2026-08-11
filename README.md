@@ -21,6 +21,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26"/>
 </p>
 
+<div align="center">
+  <sub>
+    <b>AI Disclosure</b><br>
+    I use AI for building on projects, enhancing UI designs,
+    and improving my code.<br>
+    All code made before late 2025 uses <b>no artificial intelligence</b>.
+    <br>
+    <br>
+  </sub>
+</div>
+
+
 <p align="center">
 💻 <a href="https://leetcode.com/u/lcammish/">LeetCode</a> • 
 📧 <a href="mailto:logancammish3@gmail.com">Email</a> • 
